@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Luiz Rezende
 
-<!--
-**luizcrezende/luizcrezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor em evolução, apaixonado por tecnologia, automação, cloud e boas práticas de desenvolvimento. Estou construindo minha jornada com foco em **Python**, **GitHub**, **Azure**, **VS Code** e no ecossistema **Microsoft Cloud**.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+- 🐍 Python  
+- 💻 Visual Studio Code  
+- 🤖 GitHub Copilot  
+- ☁️ Azure (Functions, App Service, Storage)  
+- 🔧 Git & GitHub  
+- 🛠️ Extensões e automações no VS Code  
+- 🔐 Segurança e boas práticas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 O que estou aprendendo agora
+- Fluxos completos de desenvolvimento com GitHub  
+- GitHub Actions (CI/CD)  
+- Deploy de aplicações Python no Azure  
+- Organização de projetos e versionamento profissional  
+
+## 📂 Projetos em destaque
+- *Em breve!* — organizando meus repositórios com boas práticas  
+- Repositórios de estudo e experimentação com Python e Azure  
+
+## 🌐 Onde me encontrar
+- GitHub: **github.com/luizcrezende**
+
+---
+💡 *Sempre aprendendo, sempre evoluindo.*

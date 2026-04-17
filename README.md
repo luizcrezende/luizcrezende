@@ -1,11 +1,13 @@
 # Luiz Carlos Rezende da Silva
 
+**Electrotechnical Technician | Industrial Maintenance Electrician | Automation and IoT 4.0 | Solutions Architecture | Corporate AI Governance | Reliability**
+
 **Founder of MeLL Cognitive Architecture**  
 **Industrial Reliability, Critical Operations, AI Governance, and Enterprise Architecture**
 
 I work at the intersection of **industrial electrical maintenance, fault diagnostics, operational reliability, cloud, AI, and governed architecture**.
 
-My professional background was built in **critical industrial environments**, with hands-on experience in **LV/MV systems, motors, MCCs, drives, automation, instrumentation, and operational safety**. Today, I extend that field experience into the design of **enterprise-grade AI governance architectures** for environments where failure is not acceptable.
+My professional background was built in **critical industrial environments**, with hands-on experience in **low/medium voltage systems, motors, CCMs, drives, automation, instrumentation, and operational safety**. Today, I extend that field experience into the design of **enterprise-grade AI governance architectures** for environments where failure is not acceptable.
 
 ---
 

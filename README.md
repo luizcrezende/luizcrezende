@@ -35,19 +35,6 @@ My professional background was built in **critical industrial environments**, wi
 
 ---
 
-## What I’m Building
-
-I am building **MeLL Cognitive Architecture**, an institutional and architectural initiative focused on making AI viable for **critical, regulated, and high-impact environments**.
-
-This includes:
-
-- **ERSC-Core** — industrial AI governance platform for critical operations
-- **CIA-Tec™** — governed intelligence architecture for structured, auditable, and human-supervised systems
-- documentation, frameworks, and evidence models for enterprise-grade AI adoption
-- integration across **Azure, GitHub, Google Cloud, and governed operational workflows**
-
----
-
 ## Why It Matters
 
 In critical environments, AI cannot operate as a black box.
@@ -114,13 +101,6 @@ The objective is to design systems that are:
 
 ---
 
-## Explore More
-
-- **LinkedIn:** [linkedin.com/in/luizcrezende](https://www.linkedin.com/in/luizcrezende)
-- **GitHub:** [github.com/luizcrezende](https://github.com/luizcrezende)
-- **Organization:** [github.com/MeLL-Cognitive-Architecture](https://github.com/MeLL-Cognitive-Architecture)
-
----
 
 ## Positioning
 

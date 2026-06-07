@@ -10,7 +10,7 @@ Este perfil concentra a evolução pública da **Mell Organização**: uma inici
 
 ---
 
-## O que a Mell Organização desenvolve
+## O que a Mell Organização desenvolve 
 
 A Mell Organização estrutura recursos técnicos abertos para apoiar decisões melhores em manutenção elétrica industrial, com foco em:
 

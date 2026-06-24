@@ -64,7 +64,7 @@ Uso a tecnologia como ferramenta cognitiva de apoio ao diagnóstico de falhas, m
 ## 📬 Vamos nos conectar?
 
 * **LinkedIn:** https://www.linkedin.com/in/luizcrezende/
-* **E-mail:** [Seu E-mail Aqui](mailto:seu-email@dominio.com)
+* **E-mail:** 
 
 ---
 *Objetivo: Contribuir para ambientes industriais mais seguros, confiáveis, inteligentes e preparados para a Indústria 4.0.*

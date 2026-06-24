@@ -1,4 +1,4 @@
-# Luiz Rezende | Mell Organização
+# Luiz Carlos Rezende da Silva | Mell Organização
 
 **Manutenção elétrica industrial • Diagnóstico de falhas • Confiabilidade • Documentação técnica • Segurança operacional**
 

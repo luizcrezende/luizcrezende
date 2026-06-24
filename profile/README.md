@@ -1,4 +1,8 @@
-# Luiz Carlos Rezende da Silva | Mell Organização
+# Luiz Carlos Rezende da Silva | MeLL Cognitive Governance Architecture LTDA
+
+MeLL Cognitive Architecture 
+
+CIA-Tec™ — Cognitive Intelligence Architecture – Technology
 
 **Manutenção elétrica industrial • Diagnóstico de falhas • Confiabilidade • Documentação técnica • Segurança operacional**
 

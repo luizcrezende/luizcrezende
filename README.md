@@ -45,8 +45,8 @@ Uso a tecnologia como ferramenta cognitiva de apoio ao diagnóstico de falhas, m
 
 ## ⚙️ Tecnologias e Ferramentas
 
-![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/chatGPT-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Industry 4.0](https://img.shields.io/badge/Industry-4.0-blue?style=for-the-badge)
 

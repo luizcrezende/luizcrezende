@@ -40,16 +40,7 @@ Uso a tecnologia como ferramenta cognitiva de apoio ao diagnóstico de falhas, m
 * **Engenharia de Confiabilidade** suportada por Machine Learning e análise de dados.
 * **Integração de Sistemas** conectando a automação de planta (CLPs/Supervisórios) à Nuvem.
 * **Transformação Digital Sustentável** e governança técnica aplicada à Indústria 4.0.
-
----
-
-## ⚙️ Tecnologias e Ferramentas
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![OpenAI](https://img.shields.io/badge/chatGPT-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Industry 4.0](https://img.shields.io/badge/Industry-4.0-blue?style=for-the-badge)
-
+* 
 ---
 
 ## 📋 Princípios de Atuação
@@ -60,10 +51,6 @@ Uso a tecnologia como ferramenta cognitiva de apoio ao diagnóstico de falhas, m
 4. **Colaboração Multidisciplinar:** Integração fluida entre Manutenção, Operação, Engenharia e TI.
 
 ---
-
-## 📬 Vamos nos conectar?
-
-* **LinkedIn:** https://www.linkedin.com/in/luizcrezende/
 
 ---
 *Objetivo: Contribuir para ambientes industriais mais seguros, confiáveis, inteligentes e preparados para a Indústria 4.0.*

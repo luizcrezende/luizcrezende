@@ -22,14 +22,9 @@ Técnico Eletrotécnico e Eletricista de Manutenção Industrial com **mais de 2
 
 Uso a tecnologia como ferramenta cognitiva de apoio ao diagnóstico de falhas, monitoramento inteligente e engenharia de confiabilidade.
 
-### 🌐 Cloud & Plataformas Digitais
-* **Cloud Providers:** Microsoft Azure e Google Cloud (Run, BigQuery).
-* **Arquitetura:** Soluções Serverless, Infraestrutura como Código (IaC) e Integração/Desenvolvimento de APIs.
-* **Produtividade:** Microsoft 365, Copilot e sistemas de telemetria/observabilidade industrial.
 
 ### 🤖 Inteligência Artificial & Dados
 * **IA Aplicada:** Diagnóstico preditivo de falhas, análise de dados de ativos e manutenção baseada em condições.
-* **IA Generativa:** Integração com APIs do ChatGPT para automação de relatórios, documentação técnica inteligente e suporte técnico.
 * **Governança:** Ética, segurança e conformidade em IA, autonomia supervisionada e pensamento sistêmico.
 
 ---
@@ -48,7 +43,7 @@ Uso a tecnologia como ferramenta cognitiva de apoio ao diagnóstico de falhas, m
 1. **Segurança em Primeiro Lugar:** Zero incidentes através de procedimentos rigorosos e conformidade normativa.
 2. **Diagnóstico Estruturado:** Análise técnica e evidências antes de qualquer intervenção (causa raiz).
 3. **Decisões Baseadas em Dados:** Rastreabilidade completa e eliminação do "achismo".
-4. **Colaboração Multidisciplinar:** Integração fluida entre Manutenção, Operação, Engenharia e TI.
+4. **Colaboração Multidisciplinar:** Integração fluida entre Manutenção, Operação, Engenharia.
 
 ---
 

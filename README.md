@@ -1,4 +1,4 @@
-# Luiz Carlos Rezende da Silva
+
 ## ⚡ Especialista em Manutenção Elétrica Industrial & Convergência Digital (Indústria 4.0)
 
 **Manutenção Elétrica | Automação | IoT Industrial | Nuvem | Inteligência Artificial | Confiabilidade**
